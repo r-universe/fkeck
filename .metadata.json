@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bioseq",
+    "oncran": true
+  },
+  {
+    "package": "rleafmap",
+    "oncran": true
+  }
+]
