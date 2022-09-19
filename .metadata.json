@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "refdb",
+    "oncran": true
+  },
+  {
     "package": "rleafmap",
     "oncran": true
   }

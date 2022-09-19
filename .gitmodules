@@ -8,6 +8,11 @@
 	url = https://github.com/fkeck/bioseq
 	shallow = true
 	registered = true
+[submodule "refdb"]
+	path = refdb
+	url = https://github.com/fkeck/refdb
+	shallow = true
+	registered = true
 [submodule "rleafmap"]
 	path = rleafmap
 	url = https://github.com/fkeck/rleafmap
