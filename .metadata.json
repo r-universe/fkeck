@@ -1,10 +1,10 @@
 [
   {
-    "package": "bioseq",
+    "package": "refdb",
     "oncran": true
   },
   {
-    "package": "refdb",
+    "package": "bioseq",
     "oncran": true
   },
   {
