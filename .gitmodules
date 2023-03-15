@@ -8,6 +8,11 @@
 	url = https://github.com/fkeck/bioseq
 	shallow = true
 	registered = true
+[submodule "phylosignal"]
+	path = phylosignal
+	url = https://github.com/fkeck/phylosignal
+	shallow = true
+	registered = true
 [submodule "refdb"]
 	path = refdb
 	url = https://github.com/fkeck/refdb

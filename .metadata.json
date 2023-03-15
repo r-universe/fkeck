@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "phylosignal",
+    "oncran": true
+  },
+  {
     "package": "refdb",
     "oncran": true
   },
