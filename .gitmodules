@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bioseq"]
 	path = bioseq
 	url = https://github.com/fkeck/bioseq
-	shallow = true
-	registered = true
 [submodule "phylosignal"]
 	path = phylosignal
 	url = https://github.com/fkeck/phylosignal
-	shallow = true
-	registered = true
 [submodule "refdb"]
 	path = refdb
 	url = https://github.com/fkeck/refdb
-	shallow = true
-	registered = true
 [submodule "rleafmap"]
 	path = rleafmap
 	url = https://github.com/fkeck/rleafmap
-	shallow = true
-	registered = true
