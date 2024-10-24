@@ -8,9 +8,6 @@
 [submodule "phylosignal"]
 	path = phylosignal
 	url = https://github.com/fkeck/phylosignal
-[submodule "refdb"]
-	path = refdb
-	url = https://github.com/fkeck/refdb
 [submodule "rleafmap"]
 	path = rleafmap
 	url = https://github.com/fkeck/rleafmap
