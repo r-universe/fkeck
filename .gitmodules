@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/fkeck/fkeck.r-universe.dev
 	branch = HEAD
 [submodule "bioseq"]
 	path = bioseq
@@ -8,6 +8,12 @@
 [submodule "phylosignal"]
 	path = phylosignal
 	url = https://github.com/fkeck/phylosignal
-[submodule "rleafmap"]
-	path = rleafmap
-	url = https://github.com/fkeck/rleafmap
+[submodule "quickview"]
+	path = quickview
+	url = https://github.com/fkeck/quickview
+[submodule "refdb"]
+	path = refdb
+	url = https://github.com/fkeck/refdb
+[submodule "subtools"]
+	path = subtools
+	url = https://github.com/fkeck/subtools
